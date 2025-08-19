@@ -77,12 +77,12 @@ print("Тестовый файл eicar.txt создан.")
 
 ### PyDroid3
 
-![Запуск](screenshots/input_path.png)
+![Запуск](Images/upload_2025_08_19_12_11_14_043.jpg)
 
 
-![Результат с обнаружением вирусов](screenshots/result_with_viruses.png)
+![Результат с обнаружением вирусов](Images/upload_2025_08_19_12_10_38_333.jpg)
 
-![Результат без вирусов](screenshots/result_clean.png)
+![Результат без вирусов](Images/upload_2025_08_19_12_10_22_520.jpg)
 
 ---
 

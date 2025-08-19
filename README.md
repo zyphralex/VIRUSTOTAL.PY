@@ -63,10 +63,9 @@ python3 VIRUSTOTAL.py
 
 Создайте его командой в терминале Python:
 
-with open("eicar.txt", "w") as f:
-
-f.write("X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*")
-print("Файл eicar.txt создан.")
+`with open("eicar.txt", "w") as f:
+    f.write("X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*")
+print("Файл eicar.txt создан.") `
 
 Либо скачайте прикрепленый файл eicar.txt
 

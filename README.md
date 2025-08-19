@@ -75,6 +75,7 @@ print("Тестовый файл eicar.txt создан.")
 
 ![Termux баннер и ввод пути](screenshots/banner_start.png)
 
+### PyDroid3
 
 ![PyDroid3 ввод пути](screenshots/input_path.png)
 
